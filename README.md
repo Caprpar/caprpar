@@ -26,6 +26,7 @@ I spend my spare time crafting side projects I can enjoy and have a good time wi
 <br/>
 <br/>
 
+---
 
 # My recent work
 

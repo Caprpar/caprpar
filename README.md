@@ -17,6 +17,15 @@ I spend my spare time crafting side projects I can enjoy and have a good time wi
 <img align="left" width="40px" style="margin:1.7em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" />
 <img align="left" width="40px" style="margin:1.7em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
 <img align="left" width="40px" style="margin:1.7em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-plain.svg" />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 # My recent work
 

@@ -51,7 +51,6 @@ After learning native javascript i composed a site where you enter the ingredien
 <br />
 <br />
 <br />
-<<<<<<< HEAD
 
 <div style="height:24em;">
 
@@ -75,14 +74,29 @@ While getting understimulated during native JS classes I started coding a black 
 <br />
 <br />
 <br />
-=======
->>>>>>> 2456cf71887ef62acaf27844e89acbbf01cda63f
 <div style="height:24em;">
 
-## Portion nutrition calculator
-<a href="https://caprpar.github.io/native-javascript/del2/labb-2/index.html"><img align="right" src="assets/nutri.png" style="width:auto;height:22em;"></a>
-After learning native javascript i composed a site where you enter the ingredients and get the total componed portions nutritional values.
+## Kungsgården
+<a href="https://caprpar.github.io/black-jack/"><img align="right" src="assets/blackjack.jpg" style="width:auto;height:22em;"></a>
+While getting understimulated during native JS classes I started coding a black jack game i could occupy myself with. The player starts with 100 coins, can bet and choose to hit or stand during play
+
+[Link: Blackjack website](https://caprpar.github.io/black-jack/)
+<br />
+
+[Link: Project repo](https://github.com/Caprpar/black-jack)
+
 </div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 
 

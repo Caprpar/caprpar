@@ -77,13 +77,13 @@ While getting understimulated during native JS classes I started coding a black 
 <div style="height:24em;">
 
 ## Kungsgården
-<a href="https://caprpar.github.io/black-jack/"><img align="right" src="assets/blackjack.jpg" style="width:auto;height:22em;"></a>
-While getting understimulated during native JS classes I started coding a black jack game i could occupy myself with. The player starts with 100 coins, can bet and choose to hit or stand during play
+<a href="https://caprpar.github.io/kungsgarden/"><img align="right" src="assets/kungsgarden.jpg" style="width:auto;height:18em;"></a>
+First time building a "whole" website using plain html and css, this project blew me away of what I was able to create after just 3 weeks of introduction. This is a page for the familys organisation, where you can book guides and accommodations.
 
-[Link: Blackjack website](https://caprpar.github.io/black-jack/)
+[Link: Kungsgården website](https://caprpar.github.io/kungsgarden/)
 <br />
 
-[Link: Project repo](https://github.com/Caprpar/black-jack)
+[Link: Project repo](https://github.com/Caprpar/kungsgarden)
 
 </div>
 <br />
@@ -96,11 +96,6 @@ While getting understimulated during native JS classes I started coding a black 
 <br />
 <br />
 <br />
-
-
-
-
-
 
 
 <!--

@@ -51,6 +51,7 @@ After learning native javascript i composed a site where you enter the ingredien
 <br />
 <br />
 <br />
+<<<<<<< HEAD
 
 <div style="height:24em;">
 
@@ -74,6 +75,8 @@ While getting understimulated during native JS classes I started coding a black 
 <br />
 <br />
 <br />
+=======
+>>>>>>> 2456cf71887ef62acaf27844e89acbbf01cda63f
 <div style="height:24em;">
 
 ## Portion nutrition calculator

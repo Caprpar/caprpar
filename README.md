@@ -51,6 +51,25 @@ After learning native javascript i composed a site where you enter the ingredien
 <br />
 <br />
 <br />
+
+<div style="height:24em;">
+
+## Blackjack
+<a href="https://caprpar.github.io/black-jack/"><img align="right" src="assets/blackjack.jpg" style="width:auto;height:22em;"></a>
+While getting understimulated during native JS classes I started coding a black jack game i could occupy myself with. The player starts with 100 coins, can bet and choose to hit or stand during play
+
+[Link: Blackjack website](https://caprpar.github.io/black-jack/)
+<br />
+
+[Link: Project repo](https://github.com/Caprpar/black-jack)
+
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />

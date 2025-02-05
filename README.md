@@ -51,10 +51,6 @@ After learning native javascript i composed a site where you enter the ingredien
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 <div style="height:24em;">
 
 ## Portion nutrition calculator

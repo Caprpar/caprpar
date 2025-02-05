@@ -38,6 +38,8 @@ I spend my spare time crafting side projects I can enjoy and have a good time wi
 <a href="https://caprpar.github.io/native-javascript/del2/labb-2/index.html"><img align="right" src="assets/nutri.png" style="width:auto;height:22em;border:2px solid #fff;border-radius:5px;"></a>
 After learning native javascript i composed a site where you enter the ingredients and get the total componed portions nutritional values. In "My Dishes" you can find graphs over daily recommended intake for each nutrition your dish provides.
 
+I loved the process of boiling down everything we learnt to create a tool that suits my lifestyle. I leared so much building and fighting with this page including. Biggest challenge was fetching and displaying data, now i do it with ease. 🏄
+
 [Link: Nutri website](https://caprpar.github.io/native-javascript/del2/labb-2/index.html)
 <br />
 
@@ -59,7 +61,9 @@ After learning native javascript i composed a site where you enter the ingredien
 
 ## Blackjack
 <a href="https://caprpar.github.io/black-jack/"><img align="right" src="assets/blackjack.jpg" style="width:auto;height:22em;border:2px solid #fff;border-radius:5px;"></a>
-While getting understimulated during native JS classes I started coding a black jack game i could occupy myself with. The player starts with 100 coins, can bet and choose to hit or stand during play
+While getting understimulated during native JS classes I started coding a black jack game i could occupy myself with. The player starts with 100 coins, can bet and choose to hit or stand during play.
+
+One of the biggest challenges was to randomly rotate and stack the cards upon eachother. I also loved the process of building snuck and tight modules that took care of the shuffeling and dealing mechanism.
 
 [Link: Blackjack website](https://caprpar.github.io/black-jack/)
 <br />
@@ -82,6 +86,8 @@ While getting understimulated during native JS classes I started coding a black 
 ## Kungsgården
 <a href="https://caprpar.github.io/kungsgarden/"><img align="right" src="assets/kungsgarden.jpg" style="width:auto;height:18em;border:2px solid #fff;border-radius:5px;"></a>
 First time building a "whole" website using plain html and css, this project blew me away of what I was able to create after just 3 weeks of introduction. This is a page for the familys organisation, where you can book guides and accommodations.
+
+Here It took a while to wrap my head around positioning all elements using flexbox. Also to come up with an appealing design for the page but after some fiddeling hours in figma I got what I was looking for.
 
 [Link: Kungsgården website](https://caprpar.github.io/kungsgarden/)
 <br />

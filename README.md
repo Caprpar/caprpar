@@ -35,7 +35,20 @@ I spend my spare time crafting side projects I can enjoy and have a good time wi
 <a href="https://caprpar.github.io/native-javascript/del2/labb-2/index.html"><img align="right" src="assets/nutri.png" style="width:auto;height:22em;"></a>
 After learning native javascript i composed a site where you enter the ingredients and get the total componed portions nutritional values.
 </div>
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 <div style="height:24em;">
 
 ## Portion nutrition calculator

@@ -29,10 +29,12 @@ I spend my spare time crafting side projects I can enjoy and have a good time wi
 
 # My recent work
 
+**Below is a collection of projects Im most proud of, sit back grab a drink and enjoy the scroll**
+
 <div style="height:24em;">
 
 ## Portion nutrition calculator
-<a href="https://caprpar.github.io/native-javascript/del2/labb-2/index.html"><img align="right" src="assets/nutri.png" style="width:auto;height:22em;"></a>
+<a href="https://caprpar.github.io/native-javascript/del2/labb-2/index.html"><img align="right" src="assets/nutri.png" style="width:auto;height:22em;border:2px solid #fff;border-radius:5px;"></a>
 After learning native javascript i composed a site where you enter the ingredients and get the total componed portions nutritional values. In "My Dishes" you can find graphs over daily recommended intake for each nutrition your dish provides.
 
 [Link: Nutri website](https://caprpar.github.io/native-javascript/del2/labb-2/index.html)
@@ -55,7 +57,7 @@ After learning native javascript i composed a site where you enter the ingredien
 <div style="height:24em;">
 
 ## Blackjack
-<a href="https://caprpar.github.io/black-jack/"><img align="right" src="assets/blackjack.jpg" style="width:auto;height:22em;"></a>
+<a href="https://caprpar.github.io/black-jack/"><img align="right" src="assets/blackjack.jpg" style="width:auto;height:22em;border:2px solid #fff;border-radius:5px;"></a>
 While getting understimulated during native JS classes I started coding a black jack game i could occupy myself with. The player starts with 100 coins, can bet and choose to hit or stand during play
 
 [Link: Blackjack website](https://caprpar.github.io/black-jack/)
@@ -77,7 +79,7 @@ While getting understimulated during native JS classes I started coding a black 
 <div style="height:24em;">
 
 ## Kungsgården
-<a href="https://caprpar.github.io/kungsgarden/"><img align="right" src="assets/kungsgarden.jpg" style="width:auto;height:18em;"></a>
+<a href="https://caprpar.github.io/kungsgarden/"><img align="right" src="assets/kungsgarden.jpg" style="width:auto;height:18em;border:2px solid #fff;border-radius:5px;"></a>
 First time building a "whole" website using plain html and css, this project blew me away of what I was able to create after just 3 weeks of introduction. This is a page for the familys organisation, where you can book guides and accommodations.
 
 [Link: Kungsgården website](https://caprpar.github.io/kungsgarden/)

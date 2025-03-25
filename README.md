@@ -58,9 +58,6 @@ It was fun to work together and I look forward to learn more about how to work w
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
 
 ## Portion nutrition calculator
 
